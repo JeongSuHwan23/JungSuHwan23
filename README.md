@@ -2,7 +2,8 @@
 
 <h1>BSSM 3기 정수환입니다.</h1>
 
-저의 [노션 포트폴리오](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4)와 [로켓펀치 포트폴리오](https://www.rocketpunch.com/@3fa73e6f)에서 기다립니다 <br>
+[Notion](https://wandering-confidence-5d5.notion.site/8ddc897fb4ac456b902e4b576fa3fe75?pvs=4) <br>
+[Tstory](https://suhwax423.tistory.com/)<br>
 
 <br/>
 <br/>
