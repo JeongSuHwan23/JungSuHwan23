@@ -6,7 +6,7 @@
 <br/>
 <h3>수</h3>
 <a href = "https://suhwax423.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-<a href = "https://www.notion.so/76949f0eda8540d383b7a53eb6277640"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<a href = "https://wise-flavor-74c.notion.site/76949f0eda8540d383b7a53eb6277640"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <a href = "https://github.com/JungSuHwan23"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
 <a href = "https://www.instagram.com/hwax._.423/"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=white"/>
 <br/>
