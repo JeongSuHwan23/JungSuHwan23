@@ -5,10 +5,10 @@
 오늘보다 내일이 기대되는 개발자 정수환입니다
 <br/>
 <h3>수</h3>
-<a href = "https://beakdong.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-<a href = "https://www.notion.so/3351edaa8b02481ab35e3129cdfda35c?pvs=4(https://heavy-maraca-3ad.notion.site/3351edaa8b02481ab35e3129cdfda35c)"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<a href = "https://github.com/beakdongH"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
-<a href = "https://www.instagram.com/orn.lbh/"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=white"/>
+<a href = "https://suhwax423.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+<a href = "https://www.notion.so/76949f0eda8540d383b7a53eb6277640"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<a href = "https://github.com/JungSuHwan23"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white"/>
+<a href = "https://www.instagram.com/hwax._.423/"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=white"/>
 <br/>
 <h3>환</h3>
 <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/>
