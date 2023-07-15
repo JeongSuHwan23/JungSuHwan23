@@ -2,7 +2,7 @@
 
 <h1>BSSM 3기 정수환입니다.</h1>
 <h3>정</h3>
-오늘보다 내일이 기대되는 개발자 정수환입니다
+오늘보다 내일이 더 기대되는 개발자 정수환입니다
 <br/>
 <h3>수</h3>
 <a href = "https://suhwax423.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
