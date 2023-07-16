@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
+
 
 
 </div>
