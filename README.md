@@ -9,6 +9,7 @@
 <a href = "https://wise-flavor-74c.notion.site/76949f0eda8540d383b7a53eb6277640"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href = "https://github.com/JungSuHwan23"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
 <a href = "https://www.instagram.com/hwax._.423/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href = "https://velog.io/@hwax"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/>
 <br/>
 <h3>환</h3>
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
