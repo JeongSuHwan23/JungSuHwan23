@@ -9,10 +9,10 @@
 <br/>
 <h2>SKILLS</h2>
 	<h3>I can do it</h3>
-		<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
-		<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"/>
-		<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>
 		</br>
 	<h3>I'm learning</h3>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=white"/>
