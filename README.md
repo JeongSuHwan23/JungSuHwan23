@@ -8,6 +8,7 @@
 <a href = "https://velog.io/@hwax"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=white"/>
 <br/>
 <h2>SKILLS</h2>
+  <h3>I can do it</h3>
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
