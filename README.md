@@ -1,4 +1,4 @@
-<h1>Hello. I'm Jung Su Hwan</h1>
+<h1>Hello. I'm Jeong Su Hwan</h1>
 <h3>FOLLOW</h3>
 <a href = "https://wise-flavor-74c.notion.site/76949f0eda8540d383b7a53eb6277640"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/><br>
 <a href = "https://velog.io/@hwax"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Velog&logoColor=white"/><br>
